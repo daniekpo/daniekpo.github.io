@@ -3,6 +3,7 @@ title: 'Conditional Random Fields'
 date: 2021-06-05
 show_published_date: false
 show_title: true
+excerpt: "Conditional random fields are a class of discriminative models that uses the dependencies/overlapping information between the neighbors of data points in a sequence. These models are best used in prediction scenarios where the relationship between neighbors affects the current prediction."
 permalink: /posts/conditional_random_fields
 tags:
   - machine learning
