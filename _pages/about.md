@@ -10,8 +10,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an undergraduate research assistant at Brigham Young University. I am very interested in visual perception. I want to spend the rest of my life doing research to help autonomous agents make intelligent decisions using the visual data around them.
+Welcome! I am an undergraduate research assistant at Brigham Young University with a keen interest in computer vision. I'm especially interested in scene understanding and visual perception. I want to spend the rest of my career doing research towards helping autonomous agents make intelligent decisions using the visual data around them.
 
-I'm currently researching under [Ryan Farrell](https://faculty.cs.byu.edu/~farrell/). I'll be starting a research internship in June and will be doing research with [Abhinav Gubta](https://www.ri.cmu.edu/ri-faculty/abhinav-gupta/) at Carnegie Mellon University.
+I'm currently researching under [Ryan Farrell](https://faculty.cs.byu.edu/~farrell/). I'm currently a research intern at Carnegie Mellon University, doing research in computer vision.
 
-When I'm not doing technical stuff, I love to get people together to play soccer.
+When I'm not doing technical stuff, I enjoy playing soccer, running, and biking.
+
+
+---
+
+### News
+
+#### [June 2021]
+I started my internship at Carnigie Mellon University as part of their Robotics Institute Summer Scholar (RISS) program. I'm working with [Abhinav Gubta](https://www.ri.cmu.edu/ri-faculty/abhinav-gupta/) and Senthil Purushwalkam.
