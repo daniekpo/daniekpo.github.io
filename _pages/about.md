@@ -22,7 +22,7 @@ When I'm not doing technical stuff, I enjoy playing soccer, running, and biking.
 ### News
 
 #### [August 2021]
-I just finisehd a great internship at Carnegie Mellon University. I had a lot of fun and will continue working on my research project through Fall of 2021.
+I just concluded a great internship at Carnegie Mellon University. I had a lot of fun and will continue working on my research project through Fall of 2021.
 
 #### [June 2021]
 I started my internship at Carnigie Mellon University as part of their Robotics Institute Summer Scholar (RISS) program. I'm working with [Abhinav Gubta](https://www.ri.cmu.edu/ri-faculty/abhinav-gupta/) and Senthil Purushwalkam.
