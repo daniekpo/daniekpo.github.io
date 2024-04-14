@@ -12,20 +12,21 @@ redirect_from: /resume
 Education
 ======
 
-* B. S. in Computer Science, Brigham Young University (Expected Dec. 2021)
+* PhD in Computer Science, University of Maryland (expected 2028)
+* B. S. in Computer Science, Brigham Young University (2021)
 
 Work experience
 ======
+* ### Software Engineer
+  * Microsoft
 
 * ### Research Intern - Computer Vision
-  * Carnegie Mellon University - June 2021 - Current
+  * Carnegie Mellon University - June 2021 - Dec 2021
   * Supervisor: Abhinav Gupta
-
-
 
 * ### Research Assistant - Computer Vision
 
-  * Brigham Young University University - Sep. 2020 - Current
+  * Brigham Young University University - Sep 2020 - Dec 2021
   * Supervisor: Ryan Farrell
     * Helped with pose estimation and segmentation-related research project
     * Analyzed and evaluated previous research works
@@ -85,9 +86,7 @@ Skills
 * Pytorch
 * Python
 * C++
-* Java
 * Docker
-* . Net
 * Azure
 * AWS
 

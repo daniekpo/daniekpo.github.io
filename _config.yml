@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Ekpo"
 title_separator          : "-"
 name                     : &name "Daniel Ekpo"
-description              : &description "Computer vision research assistant at Brigham Young University"
+description              : &description "PhD student at the University of Maryland"
 url                      : https://danielekpo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniekpo/daniekpo.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Ekpo"
-  avatar           : "profile.png"
-  bio              : "Computer Vision Research Assistant at Brigham Young University"
-  location         : "Provo, Utah"
+  avatar           : "profile.jpg"
+  bio              : "PhD student at the University of Maryland"
+  location         : "Maryland~~"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/daniekpo"
+  github           : "daniekpo"
   google_plus      :
   keybase          :
   instagram        :
